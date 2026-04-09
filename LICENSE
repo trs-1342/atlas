@@ -1,21 +1,27 @@
-MIT License
+Atlas License v1.0
 
-Copyright (c) 2026 halil
+Copyright (c) 2026 Khalil Khattab Hamsho
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This software and associated documentation files (the "Software") are provided
+for personal, educational, and non-commercial use only.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You are allowed to:
+- View and study the source code
+- Modify the code for personal use
+- Share the original repository link
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You are NOT allowed to:
+- Use this software for commercial purposes
+- Sell, sublicense, or redistribute this software as your own
+- Use any part of this code in commercial or production systems
+
+Attribution:
+Any usage, reference, or modification must clearly state that the original
+author is:
+
+Khalil Khattab Hamsho
+
+This notice must be included in all copies or substantial portions of the Software.
+
+Disclaimer:
+This software is provided "as is", without warranty of any kind.

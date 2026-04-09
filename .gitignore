@@ -139,3 +139,11 @@ temp/
 # ================================
 secrets.json
 credentials.json
+
+# Models
+vosk-model-*/
+
+# Archives
+*.zip
+
+*.wav

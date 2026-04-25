@@ -147,3 +147,4 @@ vosk-model-*/
 *.zip
 
 *.wav
+*.npz
